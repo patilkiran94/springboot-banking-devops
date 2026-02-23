@@ -14,3 +14,15 @@ End-to-end banking application built using Spring Boot and Docker to learn DevOp
 ```bash
 mvn clean install
 docker compose up --build
+
+## Prerequisites (INSTALL FIRST)
+
+Install on your system:
+
+Java 21
+
+Maven
+
+MySQL 8
+
+Docker & Docker Compose
